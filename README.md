@@ -63,6 +63,11 @@ The namespace contains the following utilities:
 
 <!-- <toc pattern="*"> -->
 
+<div class="namespace-toc">
+
+
+</div>
+
 <!-- </toc> -->
 
 </section>
