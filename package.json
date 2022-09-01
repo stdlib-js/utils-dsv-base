@@ -24,7 +24,8 @@
   "scripts": {
     "test": "make test",
     "test-cov": "make test-cov",
-    "examples": "make examples"
+    "examples": "make examples",
+    "benchmark": "make benchmark"
   },
   "homepage": "https://stdlib.io",
   "repository": {
@@ -36,7 +37,9 @@
   },
   "dependencies": {},
   "devDependencies": {
+    "@stdlib/bench": "^0.0.x",
     "@stdlib/boolean-ctor": "^0.0.x",
+    "@stdlib/math-base-special-pow": "^0.0.x",
     "@stdlib/string-format": "^0.0.x",
     "@stdlib/utils-define-nonenumerable-read-only-accessor": "^0.0.x",
     "@stdlib/utils-define-nonenumerable-read-only-property": "^0.0.x",
