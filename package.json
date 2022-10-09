@@ -35,7 +35,10 @@
   "bugs": {
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
-  "dependencies": {},
+  "dependencies": {
+    "@stdlib/utils-define-read-only-property": "^0.0.x",
+    "@stdlib/utils-dsv-base-parse": "^0.0.x"
+  },
   "devDependencies": {
     "@stdlib/bench": "^0.0.x",
     "@stdlib/boolean-ctor": "^0.0.x",
