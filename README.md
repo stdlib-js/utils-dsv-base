@@ -65,6 +65,7 @@ The namespace contains the following utilities:
 
 <div class="namespace-toc">
 
+-   <span class="signature">[`parse( [options] )`][@stdlib/utils/dsv/base/parse]</span><span class="delimiter">: </span><span class="description">incremental parser for delimiter-separated values (DSV).</span>
 
 </div>
 
@@ -171,6 +172,8 @@ Copyright &copy; 2016-2022. The Stdlib [Authors][stdlib-authors].
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/utils-dsv-base/main/LICENSE
 
 <!-- <toc-links> -->
+
+[@stdlib/utils/dsv/base/parse]: https://github.com/stdlib-js/utils-dsv-base-parse
 
 <!-- </toc-links> -->
 
