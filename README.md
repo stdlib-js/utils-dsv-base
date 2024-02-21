@@ -42,13 +42,13 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import base from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-dsv-base@deno/mod.js';
+import base from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-dsv-base@v0.2.1-deno/mod.js';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { parse } from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-dsv-base@deno/mod.js';
+import { parse } from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-dsv-base@v0.2.1-deno/mod.js';
 ```
 
 #### base
@@ -86,7 +86,7 @@ The namespace contains the following utilities:
 
 ```javascript
 import objectKeys from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-keys@deno/mod.js';
-import base from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-dsv-base@deno/mod.js';
+import base from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-dsv-base@v0.2.1-deno/mod.js';
 
 console.log( objectKeys( base ) );
 ```
