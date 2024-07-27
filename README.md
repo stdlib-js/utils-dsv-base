@@ -42,13 +42,13 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import base from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-dsv-base@esm/index.mjs';
+import base from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-dsv-base@v0.2.2-esm/index.mjs';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { parse } from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-dsv-base@esm/index.mjs';
+import { parse } from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-dsv-base@v0.2.2-esm/index.mjs';
 ```
 
 #### base
@@ -91,7 +91,7 @@ The namespace contains the following utilities:
 <script type="module">
 
 import objectKeys from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-keys@esm/index.mjs';
-import base from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-dsv-base@esm/index.mjs';
+import base from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-dsv-base@v0.2.2-esm/index.mjs';
 
 console.log( objectKeys( base ) );
 
