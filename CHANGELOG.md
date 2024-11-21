@@ -4,9 +4,63 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-11-01)
+## Unreleased (2024-11-21)
 
-No changes reported for this release.
+<section class="packages">
+
+### Packages
+
+<section class="package" id="utils-dsv-base-unreleased">
+
+#### [@stdlib/utils/dsv/base](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/utils/dsv/base)
+
+<details>
+
+<section class="bug-fixes">
+
+##### Bug Fixes
+
+-   [`eeb9d6f`](https://github.com/stdlib-js/stdlib/commit/eeb9d6fdc2e3faa3116c84f276e88737ba11196f) - remove unused imports
+
+</section>
+
+<!-- /.bug-fixes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+</section>
+
+<!-- /.packages -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Athan Reines
+
+</section>
+
+<!-- /.contributors -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`eeb9d6f`](https://github.com/stdlib-js/stdlib/commit/eeb9d6fdc2e3faa3116c84f276e88737ba11196f) - **fix:** remove unused imports _(by Athan Reines)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
 
 </section>
 
