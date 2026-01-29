@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/utils-dsv-base",
-  "version": "0.2.2",
+  "version": "0.3.0",
   "description": "Standard base utilities for working with data formatted as delimiter-separated values (DSV).",
   "license": "Apache-2.0",
   "author": {
