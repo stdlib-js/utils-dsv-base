@@ -42,13 +42,18 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import base from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-dsv-base@deno/mod.js';
+```
+The previous example will load the latest bundled code from the deno branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/utils-dsv-base/tags). For example,
+
+```javascript
 import base from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-dsv-base@v0.3.0-deno/mod.js';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { parse } from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-dsv-base@v0.3.0-deno/mod.js';
+import { parse } from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-dsv-base@deno/mod.js';
 ```
 
 #### base
@@ -86,7 +91,7 @@ The namespace contains the following utilities:
 
 ```javascript
 import objectKeys from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-keys@deno/mod.js';
-import base from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-dsv-base@v0.3.0-deno/mod.js';
+import base from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-dsv-base@deno/mod.js';
 
 console.log( objectKeys( base ) );
 ```
