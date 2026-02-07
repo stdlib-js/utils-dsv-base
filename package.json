@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/utils-dsv-base",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "Standard base utilities for working with data formatted as delimiter-separated values (DSV).",
   "license": "Apache-2.0",
   "author": {
@@ -36,19 +36,19 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/utils-define-read-only-property": "^0.2.2",
+    "@stdlib/utils-define-read-only-property": "^0.2.3",
     "@stdlib/utils-dsv-base-parse": "^0.2.2"
   },
   "devDependencies": {
-    "@stdlib/boolean-ctor": "^0.2.2",
+    "@stdlib/boolean-ctor": "^0.2.3",
     "@stdlib/math-base-special-pow": "^0.3.0",
-    "@stdlib/string-base-replace": "^0.2.2",
-    "@stdlib/string-format": "^0.2.2",
-    "@stdlib/utils-define-nonenumerable-read-only-accessor": "^0.2.3",
-    "@stdlib/utils-define-nonenumerable-read-only-property": "^0.2.2",
-    "@stdlib/utils-escape-regexp-string": "^0.2.2",
+    "@stdlib/string-base-replace": "^0.2.3",
+    "@stdlib/string-format": "^0.2.3",
+    "@stdlib/utils-define-nonenumerable-read-only-accessor": "^0.2.4",
+    "@stdlib/utils-define-nonenumerable-read-only-property": "^0.2.3",
+    "@stdlib/utils-escape-regexp-string": "^0.2.3",
     "@stdlib/utils-keys": "^0.2.2",
-    "@stdlib/utils-noop": "^0.2.2",
+    "@stdlib/utils-noop": "^0.2.3",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",
     "tap-min": "git+https://github.com/Planeshifter/tap-min.git",
